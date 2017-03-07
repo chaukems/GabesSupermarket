@@ -11,5 +11,6 @@ Please execute the attached sql script.
 
 Challenges.
 I had a rough weekend that actually resulted in not completeing the application fully, but i have put almost everything together.
-
-
+I didnt get enought chance to implement the EAN-13 bar code
+Product images i wanted to store them in a database but ran into challenges, the second option i had in mind is to create an image host folder deploy it on the local server,
+store only the image path in the database, but i didnt get enought time to do that.
