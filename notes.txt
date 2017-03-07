@@ -1,0 +1,15 @@
+1. Requirements
+Java 8 , Maven, Mysql and Tomcat
+
+I have used spring mvc and security
+
+System details
+username : admin
+password : admin
+
+Please execute the attached sql script.
+
+Challenges.
+I had a rough weekend that actually resulted in not completeing the application fully, but i have put almost everything together.
+
+
